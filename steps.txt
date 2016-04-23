@@ -90,3 +90,10 @@
 # Mostrar itens no carrinho do Modal
 
 # Trabalhando com Firebase
+
+  removeFromCart(key) {
+    this.state.cart[key] = null; ===>> Não esquecer isso
+    this.setState({
+      cart: this.state.cart
+    });
+  }
