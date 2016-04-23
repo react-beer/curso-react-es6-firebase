@@ -1,0 +1,92 @@
+# Instalando Node e Git Bash
+
+  - Colocar comando linux para instalar Node no Ubuntu ou Fedora
+  - Passar pen-drive com instaladores
+
+# Baixando projeto
+
+  - git clone
+  - Download zip
+  - Arquivo pen-drive
+
+# Visão geral do projeto (resumo sobre estrutura do código)
+
+  Mostrar pelo Sublime Text.
+
+# Instalando dependencias
+
+  Se tiver internet executar os seguites comandos
+
+  $ sudo npm install
+
+  $ gulp bower-install
+
+# Criar arquivo App.js
+
+  Esse arquivo é o arquivo principal da aplicação
+
+  - Rodar aplicação: $ gulp
+
+# Criando o primeiro componente
+
+  - Criar o arquivo Store.js
+  - Fazer um <h1>Hello World</h1>
+
+# Importanto componentes em Store.js
+
+  - Importar componente Footer.js
+
+# Trabalhando com props
+
+  - Add props (atributos) no componente Footer, para o pessoal colocar o nome deles
+  - props name e url
+
+# Criando componente Header
+
+  - Criar componente Header e importar/injetar em Store
+  - Rodar aplicação e testar
+
+# Trabalhando com States
+
+  - Criar construtor getInitialState com objetos
+
+# Carregando arquivo JS com dados das cervejas
+
+  - Monstrar a estrtura do arquivo
+  - Criar funções necessárias
+    - componentWillMount()
+    - loadBeers()
+
+# Criando funções de Add e Deletar cervejas do carrinho
+
+  - Criar funções necessárias
+    - addToCart()
+    - removeFromCart()
+
+# Criando componente Products
+
+  - Falar sobre propTyes
+  - Object.keys
+  - .map()
+  - Add componente em Store
+
+# Criando componente Product
+
+  - Criar apenas o render
+
+# Add botão em componente Product
+
+   - Botão Add to Cart
+   - Botão Sold
+
+# Add callback para adicionar produto/cerveja no carrinho
+
+# Criando componente Cart
+
+  - apenas o render
+
+# Add component Bootstrap Modal para Cart
+
+# Mostrar itens no carrinho do Modal
+
+# Trabalhando com Firebase
