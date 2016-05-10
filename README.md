@@ -1,4 +1,6 @@
-# Curso de React
+# Criando uma Web App com React.js + ES6 + Firebase
+
+Neste curso vamos criar uma Web App com React.js + ES6 + Firebase do inicio ao fim. Entender a comunicação entre componentes, utilizar o melhor do ECMAScript 2015 (ES6) e armazenar e sicronizar os dados da aplicação com Firebase.
 
 ## Objetivo
 
@@ -8,42 +10,9 @@ Hi! Meu nome é Breno Polanski, atualmente trabalho na Meteorite.bi como Front E
 
 ## Ementa
 
-- Introdução sobre o Curso
-
-- Introdução ao React
-  - O que é?
-  - Empresas que usam React
-  - Quando eu devo usar React?
-  - React x (Angular, Backbone, Ember, jQuery e Web Components)
-  - Como funciona?
-  - Virtual DOM
-    * Entendendo o Algoritmo
-  - Pensando em Componentes
-  - React Props
-  - React State
-  - React Events
-  - React Life Cycle
-
 ## Certificado
 
 Todos os alunos que terminarem o curso irão receber um certificado de conclusão.
-
-## Pré-Venda
-
-### PayPal
-
-### PagSeguro
-
-### Transferência
-
-**Banco Bradesco**
-
-**Nome:** Breno Polanski Gomes Pessoa Diniz
-**Agência:** 0493-6
-**Conta:** 0105818-5
-**CPF:** 070.972.144-73
-
-Mandar email com recibo em anexo para breno.polanski@gmail.com para confirmação do pagamento.
 
 ## Contato
 
