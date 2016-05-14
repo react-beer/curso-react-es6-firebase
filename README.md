@@ -1,6 +1,6 @@
 # Criando uma Web App com React.js + ES6 + Firebase
 
-Neste curso vamos criar uma Web App com React.js + ES6 + Firebase do inicio ao fim. Entender a comunicação entre componentes, utilizar o melhor do ECMAScript 2015 (ES6) e armazenar e sicronizar os dados da aplicação com Firebase.
+Neste curso vamos criar uma Web App com React.js + ES6 + Firebase do inicio ao fim. Entender a comunicação entre componentes, utilizar o melhor do ECMAScript 2015 (ES6) e armazenar e sincronizar os dados da aplicação com Firebase.
 
 ## Objetivo
 
